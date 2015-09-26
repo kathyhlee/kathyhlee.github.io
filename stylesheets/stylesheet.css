@@ -10,10 +10,10 @@ body {
   color: hotpink; }
 
 a {
-  color: #1e6bb8;
-  text-decoration: none; }
+  color: green;
+  text-decoration: overline; }
   a:hover {
-    text-decoration: underline; }
+    text-decoration: line-through; }
 
 .btn {
   display: inline-block;
